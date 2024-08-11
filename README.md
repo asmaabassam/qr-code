@@ -14,17 +14,15 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
-## Overview
-
 ### Screenshot
 
 ![](./screenshot.jpg)
 ![Screenshot 2024-08-11 172451](https://github.com/user-attachments/assets/3e9d2c90-1863-4aad-a420-eba94652f535)
 ![Screenshot 2024-08-11 172439](https://github.com/user-attachments/assets/6eb8746a-f1eb-4bd9-9150-1e3f4184a5d1)
 
+Links
+Solution URL: Add solution URL here
+Live Site URL: Add live site URL here
 
 Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
 
