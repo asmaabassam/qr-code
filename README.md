@@ -33,7 +33,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [qr code](https://your-live-site-url.com)
 
 ## My process
 
@@ -41,10 +41,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 - HTML
 - CSS
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
+  
 
 
 
@@ -52,9 +49,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 - [W3 html table](https://www.w3schools.com/html/html_tables.asp0).
 
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
 
-## Author
 
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/asmaabassam)
 
